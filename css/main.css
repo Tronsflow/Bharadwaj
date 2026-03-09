@@ -3957,6 +3957,20 @@ form .inputs-description {
   color: #b3bbc3 !important;
 }
 
+.contact-icon-box{
+  width:100px;
+  height:100px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.contact-icon-box img{
+  max-width:100px;
+  max-height:100px;
+  object-fit:contain;
+}
+
 /* ------------------------------------------------*/
 /* Gallery Custom Styles End */
 /* ------------------------------------------------*/
