@@ -3957,21 +3957,20 @@ form .inputs-description {
   color: #b3bbc3 !important;
 }
 
-.contact-icon-box{
+.contactdata__icon{
   width:100px;
   height:100px;
+  margin:0 auto 20px;
   display:flex;
   align-items:center;
   justify-content:center;
 }
 
-.contact-icon-box img{
+.contactdata__icon img{
   max-width:70px;
   max-height:70px;
   object-fit:contain;
 }
-
-
 
 /* ------------------------------------------------*/
 /* Gallery Custom Styles End */
